@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Login/>
-      {/* <Readguide/> */}
+      <Readguide/>
     </div>
   );
 }
